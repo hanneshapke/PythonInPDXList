@@ -14,6 +14,13 @@ Please note the company, a potential contact at the company (preferrably a PDXPy
   - Stack: Django, Postgres, ElasticSearch
   - Use: Web development, API, data science
 
+## C
+
+- [CrowdStreet](https://www.crowdstreet.com/)
+  - Contact: ...
+  - Stack: Django, Postgres, mySQL, RabbitMQ, celery
+  - Use: Web development, API
+
 ## D
 
 - [Dark Horse Comics](https://www.darkhorse.com/Company/Jobs)
