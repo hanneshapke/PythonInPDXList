@@ -2,8 +2,9 @@
 
 ![Portland](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Portland_panorama3.jpg/640px-Portland_panorama3.jpg)
 
-This is a list of companies which use Python on a regular basis and employ Python developers.
-Feel free to add any company which falls into this category to this list. Please do not leave any comments about the company in this list.
+This is a list of companies which use Python on a regular basis and employ Python developers. This list isn't a replacement of the [great portlandtech.org list](http://portlandtech.org/#language). It is meant to provide more information about the company's stack, use of Python and contact either from the PDXPython user group or from the company directly.
+
+Feel free to add any company which falls into this category to this list. Please do not leave any comments about the company in this list and keep the list objective.
 
 Please note the company, a potential contact at the company (preferrably a PDXPython member) and there stack. What is the company using Python for (e.g. web dev, data science)?
 
