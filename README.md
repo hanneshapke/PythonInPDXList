@@ -18,7 +18,7 @@ Please note the company, a potential contact at the company (preferrably a PDXPy
 ## C
 
 - [CrowdStreet](https://www.crowdstreet.com/)
-  - Contact: ...
+  - Contact: [Patrick Beeson](mailto:patrick@crowdstreet.com)
   - Stack: Django, Postgres, mySQL, RabbitMQ, celery
   - Use: Web development, API
 
